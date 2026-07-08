@@ -1,0 +1,176 @@
+{
+  "experience": [
+    {
+      "title": "Graduate Student Researcher",
+      "company": "Georgia Institute of Technology",
+      "location": "Atlanta, GA",
+      "period": "May 2026 – Present",
+      "startDate": "2026-05",
+      "endDate": null,
+      "type": "experience",
+      "homeOrder": 0,
+      "description": [
+        "Researching long-running, multi-turn AI agents for ACM and IEEE journal publication",
+        "Supervised by IEEE Fellow Dr. Vijay Madisetti"
+      ]
+    },
+    {
+      "title": "Cofounder & Software Engineer",
+      "company": "Gatherly",
+      "location": "Remote",
+      "period": "Aug 2025 - Jan 2026",
+      "startDate": "2025-08",
+      "endDate": "2026-01",
+      "type": "experience",
+      "homeOrder": 3,
+      "description": [
+        "Led full-stack development of a church communication platform used by 3 churches nationwide, reaching 2,000+ monthly visitors through SEO and a featured listing on faith.tools",
+        "Helped close 66% of deals by leading discovery calls, delivering live demos, and supporting technical onboarding",
+        "Integrated Stripe, PostHog, and Auth0 to support billing, analytics, and secure sign-in",
+        "Deployed and scaled the frontend, API, and WebSocket services on Vercel and Railway, maintaining 99.9% uptime",
+        "Built real-time messaging, announcements, and live updates across devices with WebSockets and REST APIs"
+      ]
+    },
+    {
+      "title": "Software Engineer (AI & Automation)",
+      "company": "Five More Talents",
+      "location": "Remote",
+      "period": "Aug 2025 - May 2026",
+      "startDate": "2025-08",
+      "endDate": "2026-05",
+      "type": "experience",
+      "homeOrder": 1,
+      "description": [
+        "Cut annual AI transcription costs by $1,000+ by automating workflows for 50+ hour-long sermons per church each year",
+        "Built Python and JavaScript automation that reduced manual backend setup time by 40% and sped up client deployments",
+        "Migrated 900+ sermons, media files, and client assets with zero data loss",
+        "Led the redesign of sermonpress.ai on WordPress, improving usability and accessibility"
+      ]
+    },
+    {
+      "title": "Software Engineer Intern",
+      "company": "Five More Talents",
+      "location": "Remote",
+      "period": "Jun 2025 - Aug 2025",
+      "startDate": "2025-06",
+      "endDate": "2025-08",
+      "type": "experience",
+      "homeOrder": 2,
+      "description": [
+        "Reduced sermon publishing time by 90% with an automated n8n workflow powered by the OpenAI API",
+        "Wrote internal documentation and templates that future interns continued to use",
+        "Added setup notes for non-technical users so workflows could be deployed in minutes without support",
+        "Worked with the CEO to keep automation projects aligned with company goals"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "CampaignOS",
+      "url": "https://github.com/joaquinllenado/CampaignOS",
+      "period": "May 2026",
+      "startDate": "2026-05",
+      "endDate": "2026-05",
+      "type": "project",
+      "description": [
+        "An AI campaign manager for user-generated content, built with React, TypeScript, Elysia, and LangGraph",
+        "Won the Reacher track at the Nozomio hackathon"
+      ]
+    },
+    {
+      "name": "MarketShift",
+      "url": "https://marketshift.vercel.app",
+      "period": "Mar 2026",
+      "startDate": "2026-03",
+      "endDate": "2026-03",
+      "type": "project",
+      "description": [
+        "Built a multi-agent competitive intelligence platform in 5 hours, placing 4th among 30+ teams at the Glow Up hackathon",
+        "Used Python, FastAPI, and LangChain to automate market research and competitor discovery, then reduced agent latency by 85% through model and prompt optimization"
+      ]
+    },
+    {
+      "name": "Recurve AI",
+      "url": "https://devpost.com/software/recurve-ai",
+      "period": "Feb 2026",
+      "startDate": "2026-02",
+      "endDate": "2026-02",
+      "type": "project",
+      "description": [
+        "Built a multi-agent sales pipeline in under 7 hours using Python, FastAPI, and React to generate sales strategies and identify high-intent leads",
+        "Reached 97.5% out-of-sample accuracy for lead validation by fine-tuning a small language model with Fastino"
+      ]
+    },
+    {
+      "name": "Flowst8",
+      "url": "",
+      "period": "Feb 2025 - Jun 2025",
+      "startDate": "2025-02",
+      "endDate": "2025-06",
+      "type": "project",
+      "description": [
+        "Built a full-stack productivity workspace with Next.js and Supabase, including secure row-level security, OAuth sign-in, and real-time sync for 22 early users in month one",
+        "Improved performance with SSR/SSG and Cloudflare CDN support, cutting page load times by 32% and reaching a 97 Lighthouse score"
+      ]
+    },
+    {
+      "name": "Sneakr",
+      "url": "https://sneakr.vercel.app/",
+      "period": "Jun 2024 - Sep 2024",
+      "startDate": "2024-06",
+      "endDate": "2024-09",
+      "type": "project",
+      "description": [
+        "A sneaker price comparison platform that compares prices across multiple retailers",
+        "Built with React, Node.js, and Express, reducing search time by 30% through optimized data fetching and caching",
+        "Added API call batching to cut backend response times by 25% and keep the codebase maintainable"
+      ]
+    },
+    {
+      "name": "Lyric of Lyrics",
+      "url": "https://github.com/joaquinllenado/Lyric-of-Lyrics",
+      "period": "Jan 2024 - May 2024",
+      "startDate": "2024-01",
+      "endDate": "2024-05",
+      "type": "project",
+      "description": [
+        "A collaborative tool that turns song lyrics into PowerPoint presentations for worship leaders and educators",
+        "Led the frontend redesign on a 4-person team using modern React patterns, improving maintainability by 20%",
+        "Reduced presentation prep time by 40% with unit-tested, reliable functionality"
+      ]
+    },
+    {
+      "name": "AI Keylogger Detection App",
+      "url": "https://github.com/joaquinllenado/keylogger-detection",
+      "period": "Jan 2024 - May 2024",
+      "startDate": "2024-01",
+      "endDate": "2024-05",
+      "type": "project",
+      "description": [
+        "An AI-powered security app that detects keyloggers in real time using machine learning",
+        "Combined Python and scikit-learn models with a web interface for monitoring and analysis",
+        "Reached 96.5% prediction accuracy through feature engineering and model optimization"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia Institute of Technology",
+      "url": "https://www.gatech.edu/",
+      "degree": "MS in Computer Science, AI Specialization · GPA 4.0",
+      "period": "Expected: Dec 2028",
+      "startDate": "2026-01",
+      "endDate": "2028-12",
+      "type": "education"
+    },
+    {
+      "institution": "Biola University",
+      "url": "https://www.biola.edu/",
+      "degree": "BS in Computer Science",
+      "period": "May 2024",
+      "startDate": "2020-01",
+      "endDate": "2024-05",
+      "type": "education"
+    }
+  ]
+}
