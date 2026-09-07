@@ -1,66 +1,47 @@
 {
   "experience": [
     {
-      "title": "Graduate Student Researcher",
-      "company": "Georgia Institute of Technology",
-      "location": "Atlanta, GA",
-      "period": "May 2026 – Present",
-      "startDate": "2026-05",
+      "title": "Software Engineer",
+      "company": "Pop Life Photo",
+      "location": "Walnut Creek, CA",
+      "period": "Aug 2026 – Present",
+      "startDate": "2026-08",
       "endDate": null,
       "type": "experience",
       "homeOrder": 0,
       "description": [
-        "Researching long-running, multi-turn AI agents for ACM and IEEE journal publication",
-        "Supervised by IEEE Fellow Dr. Vijay Madisetti"
+        "Own the development, scaling, and optimization of production Model Context Protocol (MCP) servers, connecting LLM agents with company systems to enable semantic search for non-technical teams",
+        "Architect and maintain full-stack internal automation pipelines to streamline enterprise event activation workflows, refactoring legacy scripts into a modular, high-availability architecture"
       ]
     },
     {
-      "title": "Cofounder & Software Engineer",
-      "company": "Gatherly",
+      "title": "Graduate Student Researcher",
+      "company": "Georgia Institute of Technology",
       "location": "Remote",
-      "period": "Aug 2025 - Jan 2026",
-      "startDate": "2025-08",
-      "endDate": "2026-01",
-      "type": "experience",
-      "homeOrder": 3,
-      "description": [
-        "Led full-stack development of a church communication platform used by 3 churches nationwide, reaching 2,000+ monthly visitors through SEO and a featured listing on faith.tools",
-        "Helped close 66% of deals by leading discovery calls, delivering live demos, and supporting technical onboarding",
-        "Integrated Stripe, PostHog, and Auth0 to support billing, analytics, and secure sign-in",
-        "Deployed and scaled the frontend, API, and WebSocket services on Vercel and Railway, maintaining 99.9% uptime",
-        "Built real-time messaging, announcements, and live updates across devices with WebSockets and REST APIs"
-      ]
-    },
-    {
-      "title": "Software Engineer (AI & Automation)",
-      "company": "Five More Talents",
-      "location": "Remote",
-      "period": "Aug 2025 - May 2026",
-      "startDate": "2025-08",
-      "endDate": "2026-05",
+      "period": "May 2026 – Aug 2026",
+      "startDate": "2026-05",
+      "endDate": "2026-08",
       "type": "experience",
       "homeOrder": 1,
       "description": [
-        "Cut annual AI transcription costs by $1,000+ by automating workflows for 50+ hour-long sermons per church each year",
-        "Built Python and JavaScript automation that reduced manual backend setup time by 40% and sped up client deployments",
-        "Migrated 900+ sermons, media files, and client assets with zero data loss",
-        "Led the redesign of sermonpress.ai on WordPress, improving usability and accessibility"
+        "Co-authored research paper on Model Context Protocol (MCP) tool security under Dr. Vijay Madisetti, currently under review for publication in IEEE OJCS",
+        "Designed and built MCP-Secure+, an extensible, drop-in MCP security framework that decouples defensive logic from core agent protocols with 0.15ms framework overhead",
+        "Reproduced and validated baseline MCP-Secure constant-time access control policies across 1,080 execution runs, lowering validation latency to 0.02–0.03ms and achieving a 100% block rate on unsafe adversarial requests across elevated security levels",
+        "Integrated an embedding-based XGBoost classifier into post-call response hooks to detect indirect prompt injections across 7 payload formats and 12 application domains, mitigating context poisoning with 89.06% accuracy and 0% false positives"
       ]
     },
     {
-      "title": "Software Engineer Intern",
+      "title": "Software Engineer",
       "company": "Five More Talents",
       "location": "Remote",
-      "period": "Jun 2025 - Aug 2025",
+      "period": "Jun 2025 – May 2026",
       "startDate": "2025-06",
-      "endDate": "2025-08",
+      "endDate": "2026-05",
       "type": "experience",
       "homeOrder": 2,
       "description": [
-        "Reduced sermon publishing time by 90% with an automated n8n workflow powered by the OpenAI API",
-        "Wrote internal documentation and templates that future interns continued to use",
-        "Added setup notes for non-technical users so workflows could be deployed in minutes without support",
-        "Worked with the CEO to keep automation projects aligned with company goals"
+        "Built AI automated workflows using Python, JavaScript, n8n, and OpenAI API, reducing client publishing time by 90% through automated scraping, transcription, and post generation",
+        "Led the company's AI initiative by translating client publishing workflows into automated systems, partnering directly with the CEO to define requirements, scope MVPs, and ship client-facing solutions"
       ]
     }
   ],
